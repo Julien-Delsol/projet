@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\fsfile.o
+./release\parser.o
+./release\candidat.o
+./release\appcore.o
+./release\encoder.o
+./release\qrc_qml.o
+./release\moc_fsfile.o
+./release\moc_candidat.o
+./release\moc_appcore.o
+);
